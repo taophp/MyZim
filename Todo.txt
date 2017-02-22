@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-17T10:05:57+01:00
+
+====== Todo ======
+Created vendredi 17 février 2017
+
+===== ABW =====
+[ ] Sortir du Fast Ring
+[ ] Mettre à jour avec l'assistant 
+
+
+===== S1 =====
+[*] Install Docker
+[ ] Install Docker Syncthing
+
+===== S2 =====
+[*] Install OS depuis S1
+[*] update FStab
+
+===== PC-C =====
+[ ] Install Borg
+
+===== PC-F =====
+[*] Test Kubuntu Live
+[*] Test Cheese sur Kubuntu Live
+[ ] Backup données
+[ ] Install Kubuntu
+[ ] Install Cheese
+
+===== PC-S =====
+[ ] Vérifier Backup
+[*] Install zim
+[ ] Install Syncthing
+
+===== Tab-S =====
+[ ] Activer Développeur mode
+[x] Rejoindre le Fastring
+[ ] Install WSL
+[ ] Install Borg
+[ ] Install Syncthing
+[ ] Install Zim
+
+
+

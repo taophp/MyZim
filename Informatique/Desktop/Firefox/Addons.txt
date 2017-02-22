@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-17T12:11:23+01:00
+
+====== Addons ======
+Created vendredi 17 février 2017
+@outils @developpement 
+
+Quelques extensions à Firefox que j'apprécie particulièrement ou qui manquent le coche.
+
+===== Recherche =====
+* [[https://addons.mozilla.org/fr/firefox/addon/search-in-new-tab/|Search in New Tab]] ♥♥♥ : affiche le résultat d'une recherche dans un nouvel onglet lorsque celle-ci est effectuée depuis la barre de recherche.
+* [[https://addons.mozilla.org/fr/firefox/addon/add-to-search-bar/|Add to Search Bar]] ♥♥♥ : permet d'ajouter n'importe quel champ texte de formulaire à la liste des moteurs de la barre de recherche à l'aide d'un simple clic droit.
+
+===== Mode "Lecture" =====
+
+==== Bascule automatique ====
+* [[https://addons.mozilla.org/en-US/firefox/addon/automatic-reader-view/|Automatic Reader View]] ♥ : j'apprécie tout particulièrement le mode "Lecture" qui permet de n'afficher que l'essentiel du page web avec une sobriété sans faute. Toutefois, je ne pense en général à basculer dans ce mode que lorsque que l'expérience de lecture me paraît dégradée dans le mode "Standard". Cela est bien regrettable car, dans la majorité des cas, même si je n'arrive pas au point de basculer, le mode "Lecture" offre une expérience supérieure. Une configuration adéquate de cette extension fait basculer tous les sites qui le permettent en mode "Lecture". Par défaut, ce module permet d'indiquer la liste des sites que l'on souhaite consulter en mode "Lecture" et affiche les autres normalement, mais il est possible d'inverser ce comportement. Attention ! Il ne force pas le mode "Lecture" pour les sites que Firefox en reconnait pas comme adaptés à ce mode. Ce plugin pourrait être amélioré. En effet, l'ajout d'un site à une des listes est trop laborieux : il faut à chaque fois ouvrir options du module pour ce faire. D'autre part, une fois l'ajout effectué, la prise en compte des sous-domaines ne semblent pas très fiable. Par ailleurs, il est peut-être nécesssaire de fermer et rouvrir l'onglet pour que le changement soit pris en comtpe.
+* [[https://addons.mozilla.org/fr/firefox/addon/auto-reader-view/|Auto Reader View]] ♥♥ : permet de passer un site en mode "Lecture" et conserve ce paramétrage, grâce à un simple bouton. Le paramétrage est conservé et valable pour tout le site. Plus pratique de ce point de vue que Automatic Reader View, mais il manque de paramétrage ; en particulier, il ne permet pas de définir le mode "Lecture" comme mode par défaut.
+* [[https://addons.mozilla.org/fr/firefox/addon/autoreaderview/|AutoReaderView]] : permet d'afficher les sites en mode "Lecture" par défaut lorsque cela est possible. Un bouton supplémentaire permet d'activer ou de désactiver ce comportement, mais il n'est pas possible d'effectuer un paramétrage par site.
+Je n'ai pas trouvé le module que je cherchais, mais j'ai mieux compris mon besoin. Il doit être possible de le créer facilement à partir des sources de ces trois plugins. Voici la liste des fonctionnalités dont je souhaiterai disposer :
+[ ] mode "Lecture" par défaut sur les sites qui le permettent
+[ ] bouton dans la barre d'outil permettant de basculer (avec rechargement de la page) d'un mode à l'autre pour la page en cours en mémorisant le dernier mode,
+[ ] le changement de mode de provoque pas d'ajout à l'historique du navigateur,
+[ ] le dernier mode est mémorisé et étendu par défaut à toutes les pages et toutes les sous-domaines du site, si les pages le permettent et s'il n'y a pas une spécification plus précise,l
+[ ] cette mémorisaton est faite sous la forme d'une règle à base d'expression régulière, modifiable dans les options du module
+
+==== Autres ====
+* [[https://addons.mozilla.org/en-US/firefox/addon/better-reader/|Better Reader]] ♥♥ : ce module permet de personnaliser le mode "Lecture" de façon à l'adapter à ses envies : police, couleur d'arrière-plan, interligne, largeur du texte. Il est possible de tout adapter à ses besoins.
+
+===== Développement =====
+* [[http://getfirebug.com/|Firebug]] ♥♥♥ : l'indispensable outil pour le développeur web. Bon nombre d'extensions existent pour étendre ses fonctionnalités.
+* [[https://addons.mozilla.org/fr/firefox/addon/open-with/|Open With]] ♥♥♥ : d'un clic-droit sur la page courante, permet de l'ouvrir dans le navigateur de son choix, ce qui se révèle pratique pour tester l'aspect d'un site.
+
+===== Divers =====
+* [[https://addons.mozilla.org/fr/firefox/addon/screengrab-fix-version/|ScreenGrab (fix version)]] ♥♥♥ : module permettant la capture d'une page web sous la forme d'image. Extrêment souple : permet la capture de la page entière, de la partie visible ou seulement d'une sélection ; permet l'enregistrement de la capture dans un fichier, la réception dans le presse-papier ou encore l'envoi vers un serveur.
+
