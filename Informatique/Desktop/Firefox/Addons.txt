@@ -4,9 +4,12 @@ Creation-Date: 2017-02-17T12:11:23+01:00
 
 ====== Addons ======
 Created vendredi 17 février 2017
-@outils @developpement 
+@outils @developpement @web @sécurité 
 
 Quelques extensions à Firefox que j'apprécie particulièrement ou qui manquent le coche.
+
+===== Sécurité =====
+* [[https://www.eff.org/https-everywhere|HTTPS Everywhere]] ♥♥♥ : un projet de l'[[https://www.eff.org/|Electronic Frontier Fundation]], ce module permet de basculer automatiquement sur la version https d'un site pour peu que la configuration du plugin le permette. La difficulté tient à ce que les contenus en https ne sont pas nécessairement identiques à ceux en http. Du coup, il est nécessaire de pouvoir décider sur quels sites le basculement automatique doit pouvoir s'effectuer. Le plugin embarque donc un certain nombre de règles modifiables qui définissent les basculement. Le site [[https://www.eff.org/https-everywhere/atlas|HTTPS Everywhere Atlas]] permet de déterminer à quels sites s'applique la configuration par défaut. du module Exite également pour Android, Chrome et Opera.
 
 ===== Recherche =====
 * [[https://addons.mozilla.org/fr/firefox/addon/search-in-new-tab/|Search in New Tab]] ♥♥♥ : affiche le résultat d'une recherche dans un nouvel onglet lorsque celle-ci est effectuée depuis la barre de recherche.
@@ -26,7 +29,7 @@ Je n'ai pas trouvé le module que je cherchais, mais j'ai mieux compris mon beso
 [ ] cette mémorisaton est faite sous la forme d'une règle à base d'expression régulière, modifiable dans les options du module
 
 ==== Autres ====
-* [[https://addons.mozilla.org/en-US/firefox/addon/better-reader/|Better Reader]] ♥♥ : ce module permet de personnaliser le mode "Lecture" de façon à l'adapter à ses envies : police, couleur d'arrière-plan, interligne, largeur du texte. Il est possible de tout adapter à ses besoins.
+* [[https://addons.mozilla.org/en-US/firefox/addon/better-reader/|Better Reader]] ♥♥♥ : ce module permet de personnaliser le mode "Lecture" de façon à l'adapter à ses envies : police, couleur d'arrière-plan, interligne, largeur du texte. Il est possible de tout adapter à ses besoins.
 
 ===== Développement =====
 * [[http://getfirebug.com/|Firebug]] ♥♥♥ : l'indispensable outil pour le développeur web. Bon nombre d'extensions existent pour étendre ses fonctionnalités.

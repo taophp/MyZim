@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-23T08:27:59+01:00
+
+====== Jeudi 23 févr. 2017 ======
+
+[ ] Nginx / Docker / Nginx Site Static
+[*] Clés de la Maison
+	[*] formulaire de contact
+	[*] slider
+	[*] appliquer le wpress de Girish
+
+
+
+
+

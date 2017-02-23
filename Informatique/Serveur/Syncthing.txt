@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-23T13:51:50+01:00
+
+====== Syncthing ======
+Created jeudi 23 février 2017
+
+===== Documentation =====
+[[https://docs.syncthing.net/intro/getting-started.html|Official]]
+[[https://github.com/firecat53/dockerfiles/tree/master/syncthing|DockerFile]]
+Deux changements sont à prévoir dans le Dockerfile :
+[ ] [[https://github.com/syncthing/syncthing/releases/tag/v0.14.23|l'url du fichier à télécharger]]
+[ ] l'image Docker de départ

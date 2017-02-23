@@ -25,8 +25,9 @@ Created vendredi 17 février 2017
 [*] Test Kubuntu Live
 [*] Test Cheese sur Kubuntu Live
 [ ] Backup données
-[ ] Install Kubuntu
-[ ] Install Cheese
+[ ] Next: Install Kubuntu
+[ ] Next: Install Cheese
+[ ] Next: Install Borg
 
 ===== PC-S =====
 [ ] Vérifier Backup
@@ -35,11 +36,10 @@ Created vendredi 17 février 2017
 
 ===== Tab-S =====
 [ ] Activer Développeur mode
-[x] Rejoindre le Fastring
-[ ] Install WSL
-[ ] Install Borg
+[ ] Next: Install WSL
+[ ] Next: Install Borg
 [ ] Install Syncthing
-[ ] Install Zim
+[*] Install Zim
 
 
 
