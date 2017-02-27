@@ -42,5 +42,5 @@ Je n'ai pas trouvé le module que je cherchais, mais j'ai mieux compris mon beso
 * [[https://addons.mozilla.org/fr/firefox/addon/colorpicker/|ColorPicker]] ♥♥♥ : vous permet de récupérer rapidement le code RGB ou Hex d'un pixel de  la page.
 
 ===== Divers =====
-* [[https://addons.mozilla.org/fr/firefox/addon/screengrab-fix-version/|ScreenGrab (fix version)]] ♥♥♥ : module permettant la capture d'une page web sous la forme d'image. Extrêment souple : permet la capture de la page entière, de la partie visible ou seulement d'une sélection ; permet l'enregistrement de la capture dans un fichier, la réception dans le presse-papier ou encore l'envoi vers un serveur.
+* [[https://addons.mozilla.org/fr/firefox/addon/screengrab-fix-version/|ScreenGrab (fix version)]] ♥♥♥ : module permettant la capture d'une page web sous la forme d'image. Extrêmement souple : permet la capture de la page entière, de la partie visible ou seulement d'une sélection ; permet l'enregistrement de la capture dans un fichier, la réception dans le presse-papier ou encore l'envoi vers un serveur.
 
