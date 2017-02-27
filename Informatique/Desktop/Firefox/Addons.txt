@@ -15,6 +15,10 @@ Quelques extensions à Firefox que j'apprécie particulièrement ou qui manquent
 * [[https://addons.mozilla.org/fr/firefox/addon/search-in-new-tab/|Search in New Tab]] ♥♥♥ : affiche le résultat d'une recherche dans un nouvel onglet lorsque celle-ci est effectuée depuis la barre de recherche.
 * [[https://addons.mozilla.org/fr/firefox/addon/add-to-search-bar/|Add to Search Bar]] ♥♥♥ : permet d'ajouter n'importe quel champ texte de formulaire à la liste des moteurs de la barre de recherche à l'aide d'un simple clic droit.
 
+===== Marques-pages =====
+* [[https://addons.mozilla.org/fr/firefox/addon/updatebookmark/|UpdateBookmark]] ♥♥ : ajoute une entrée "Update" au menu contextuel d'un marque-page. Celle-ci permet de mettre à jour la destination du lien en la remplaçant par la page courante. Cela se révèle pratique lorsqu'il s'agit de suivre une lecture au long cours.
+* [[https://addons.mozilla.org/fr/firefox/addon/bookmark-all/|BookmarkAll]] ♥♥ : Permet d'enregistrer la liste des pages ouvertes dans tous les onglets dans un unique dossier de marques-pages. L'enregistrement s'effectue à l'aide de l'entrée "Outils/Bookmark All" ou à l'aide du racourci clavier "Ctl+Alt+D". Le dossier créé est situé dans "Marques-pages/Bookmark All" et a la forme "Bookmarks at : " suivi d'une indication du moment de la création du dossier (date / heure). Cela se révèle utile pour retrouver un ensemble de pages consitutant une session de travail, en particulier à l'aide du menu contextuel de dossiers de marques-pages "Tout ouvrir dans des onglets".
+
 ===== Mode "Lecture" =====
 
 ==== Bascule automatique ====
@@ -34,6 +38,8 @@ Je n'ai pas trouvé le module que je cherchais, mais j'ai mieux compris mon beso
 ===== Développement =====
 * [[http://getfirebug.com/|Firebug]] ♥♥♥ : l'indispensable outil pour le développeur web. Bon nombre d'extensions existent pour étendre ses fonctionnalités.
 * [[https://addons.mozilla.org/fr/firefox/addon/open-with/|Open With]] ♥♥♥ : d'un clic-droit sur la page courante, permet de l'ouvrir dans le navigateur de son choix, ce qui se révèle pratique pour tester l'aspect d'un site.
+* [[https://addons.mozilla.org/fr/firefox/addon/measureit/developers|MeasureIt]] ♥♥♥ : vous permet de mesurer facilement des éléments sur une page web.
+* [[https://addons.mozilla.org/fr/firefox/addon/colorpicker/|ColorPicker]] ♥♥♥ : vous permet de récupérer rapidement le code RGB ou Hex d'un pixel de  la page.
 
 ===== Divers =====
 * [[https://addons.mozilla.org/fr/firefox/addon/screengrab-fix-version/|ScreenGrab (fix version)]] ♥♥♥ : module permettant la capture d'une page web sous la forme d'image. Extrêment souple : permet la capture de la page entière, de la partie visible ou seulement d'une sélection ; permet l'enregistrement de la capture dans un fichier, la réception dans le presse-papier ou encore l'envoi vers un serveur.
