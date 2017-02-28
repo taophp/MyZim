@@ -1,9 +1,9 @@
 [Notebook]
 version=0.4
-name=zim
+name=ZimPerso
 interwiki=
 home=Home
-icon=
+icon=./perso3.png
 document_root=
 shared=True
 endofline=dos

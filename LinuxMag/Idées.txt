@@ -10,7 +10,7 @@ Created lundi 20 février 2017
 [ ] PHPWord
 
 ===== Linux Pratique =====
-[ ] Activer WSL
+[ ] Survivre sous Windows
 
 
 
