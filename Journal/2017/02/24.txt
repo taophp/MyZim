@@ -6,7 +6,7 @@ Creation-Date: 2017-02-23T09:37:28+01:00
 
 [*] Clés de la Maison
 	[*] identifier nouveau contenu en production
-[ ] GoFenêtres
-	[ ] Voir Menu mobile
-	[ ] Voir placement du menu en Desk
-	[ ] Traduire les trucs en anglais
+[*] GoFenêtres
+	[*] Voir Menu mobile
+	[*] Voir placement du menu en Desk
+	[*] Traduire les trucs en anglais
