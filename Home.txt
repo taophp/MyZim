@@ -4,7 +4,7 @@ Creation-Date: 2017-02-17T11:19:53+01:00
 
 ====== Home ======
 Created vendredi 17 février 2017
-zi
+
 Ceci est mon wiki personnel. Pour le moment, il ne s'agit que d'une expérimentation. Le but est de trouver un outil me permettant à la fois d'organiser, de conserver et de publier tout en pouvant y travailler en tout lieu, ou presque. **Bien des choses que vous trouverez ici ne sont qu'à l'état d'ébauche**.
 
 Il me tient lieu également de [[Journal]]. Mais il faut considérer tout cela comme un vaste brouillon.
