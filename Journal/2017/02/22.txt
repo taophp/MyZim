@@ -3,7 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-02-22T08:19:11+01:00
 
 ====== Mercredi 22 févr. 2017 ======
-@FreeSoftware @code @développeur @politique @LogicielLibre @Gouvernance @FSF @cathédrale @bazar @OpenSource @law @loi @Lessig @philosophie @droit @informatique @politique
+@FreeSoftware @code @développeur @politique @LogicielLibre @Gouvernance @FSF @cathédrale @bazar @OpenSource @law @loi @Lessig @philosophie @droit @informatique @politique @liberté 
 
 J'ai survolé hier soir [[https://blog.imirhil.fr/2017/02/21/logiciel-libre-gouvernance-ethique.html|le billet de Aeris sur le Logiciel Libre et la Bonne Gouvernance]]. Je l'ai parcouru à nouveau ce matin.
 Il consiste principalement à séparer les deux pour mettre la priorité sur la seconde, en s'appuyant sur la //vulgate// libriste.
