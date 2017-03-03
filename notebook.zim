@@ -2,7 +2,7 @@
 version=0.4
 name=ZimPerso
 interwiki=
-home=Home
+home=index
 icon=./perso3.png
 document_root=
 shared=True
