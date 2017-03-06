@@ -11,6 +11,15 @@ Il me tient lieu également de [[Journal]]. Mais il faut considérer tout cela c
 
 Créé avec [[http://www.zim-wiki.org|Zim]], l'outil de création wiki pour Desktop.
 L'idée est maintenant d'utiliser [[https://syncthing.net|Syncthing]] pour rendre ces données ubiquitaires et la publication automatique sur le web : si cela réussit, il se pourrait bien que je m'en serve pour mon site, au moins pour une partie "Notes".
-[[Informatique:Desktop:Firefox:Addons]]
+
+===== Principales entrées =====
+* [[Journal]]
+* [[Informatique]]
+* [[Textes]]
+* [[Divers]]
+
+===== Marques-pages =====
+* [[Informatique:Desktop:Firefox:Addons|Mes modules favoris pour Firefox]]
+* [[Informatique:Desktop:Favlets|Mes favlets]]
 
 

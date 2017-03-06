@@ -6,10 +6,12 @@ Creation-Date: 2017-02-20T10:04:12+01:00
 Created lundi 20 février 2017
 
 ===== Gnu/Linux Magazine France =====
-[ ] Humeur: BlockChain
+[ ] Humeur: [[BlockChain]]
+[ ] GLMF/Humeur: Machines à voter [d:17/03/2017 ] !
 [ ] PHPWord
 
 ===== Linux Pratique =====
+[ ] Syncthing
 [ ] Survivre sous Windows
 
 

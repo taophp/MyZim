@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-03-06T10:14:20+01:00
+
+====== Idées pour un framework ======
+Created lundi 06 mars 2017
+
+===== Module de traduction Front ? =====
+@web @développement
+Il faudrait un module permettant d'effectuer la traduction des éléments d'un site à partir de l'affichage de ce site : chaque texte issu d'un mécanisme de traduction serait enrobé du nécessaire pour, sur un clic, passer en saisie de traduction. Une barre supplémentaire permettrait de basculer la langue de destination en cours. Pour que cela fonctionne, il faudrait que la fonction prenant en charge la traduction surcharge le texte traduit avec du HTML et du JS permettant le basculement et le recueil de la saisie. Il faudrait que dans les éléments injectés il y ait suffisement d'informations pour remonter la saisie à la source et faire en sorte que la traduction soit prise en charge par le bon système. Au pire, il pourrait y avoir un système de remplacement qui prenne en charge les éléments non traduisibles.
+
+===== Dossiers de CSS/SASS/LESS =====
+Il faudrait pouvoir concaténer/minifier des fichiers css dans un dossier, dans l'ordre de numérotation, pour pouvoir ajouter des déclarations où on le souhaite sans avoir à modifier les templates. On aurait des noms de fichiers du style ''10-reset.css, 20-base.css'', etc.
+Le même principe serait à appliquer à des dossiers SASS ou LESS.
+
+===== Des cascades par milliers =====
+Le principe des cascades tel qu'on le trouve dans Zend pour les fichiers devrait être généralisé au travers d'une classe d'objets itérables : à l'instanciation, on lui associerait une fonction de recherche à utiliser sur ses éléments ; on lui ajouterait des éléments ; on lui demanderait le résultat d'une recherche sur ces éléments à l'aide d'une méthode de recherche en lui passant en paramètre le critère de recherche ; la méthode renverait les premiers résultats trouvés en parcourant les éléments de l'objet dans l'ordre de leur ajout.
+Un paramètre optionnel de la méthode de recherche, valeur par défaut 1, pemettrait d'indiquer le nombre d'éléments souhaités. 0 signifierait que l'on souhaite obtenir //tous// les résultats.
+Une méthode pour retourner tous les résultats pour tous les éléments pourrait également être utile (pour réaliser de grandes concaténations, par exemple, comme proposé pour les dossiers de CSS). Par défaut, ce sera le résultat d'une recherche sans critère

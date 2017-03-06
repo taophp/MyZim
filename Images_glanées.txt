@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-03-06T14:38:59+01:00
+
+====== Images glanées ======
+Created lundi 06 mars 2017
+
+===== Blob =====
+Mon avatar fétiche. Trouvé un jour à l'occasion d'une recherche d'image sur le mot clé "blob".
+{{file:///C:/Users/smourey/Downloads/blob.jpeg?href=file%3A%2F%2F%2FC%3A%2FUsers%2Fsmourey%2FDownloads%2Fblob.jpeg&width=50}}
