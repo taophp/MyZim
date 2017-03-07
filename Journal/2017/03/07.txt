@@ -15,3 +15,5 @@ git pull
 git push origin master
 rem \Framakey\Apps\ZimDesktopWikiPortable\App\ZimDesktopWiki\zim --export --overwrite -o /data/MyZimExport /data/MyZim
 }}}
+
+Ceci est un test
