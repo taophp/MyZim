@@ -3,7 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-03-07T09:04:54+01:00
 
 ====== Mardi 07 mars 2017 ======
-[ ] Mettre à jour le script de lancement de zim sur ma station de travail de sorte  que le push fonctionne correctement.
+[*] Mettre à jour le script de lancement de zim sur ma station de travail de sorte  que le push fonctionne correctement.
 [ ] Mettre en place un script sur tablet-pc pour le lancement de zim. Voir la base ci-dessous :
 
 {{{code: lang="dosbatch" linenumbers="True"
