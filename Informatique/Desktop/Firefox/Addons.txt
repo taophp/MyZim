@@ -39,8 +39,10 @@ Je n'ai pas trouvé le module que je cherchais, mais j'ai mieux compris mon beso
 * [[http://getfirebug.com/|Firebug]] ♥♥♥ : l'indispensable outil pour le développeur web. Bon nombre d'extensions existent pour étendre ses fonctionnalités.
 * [[https://addons.mozilla.org/fr/firefox/addon/open-with/|Open With]] ♥♥♥ : d'un clic-droit sur la page courante, permet de l'ouvrir dans le navigateur de son choix, ce qui se révèle pratique pour tester l'aspect d'un site.
 * [[https://addons.mozilla.org/fr/firefox/addon/measureit/developers|MeasureIt]] ♥♥♥ : vous permet de mesurer facilement des éléments sur une page web.
-* [[https://addons.mozilla.org/fr/firefox/addon/colorpicker/|ColorPicker]] ♥♥♥ : vous permet de récupérer rapidement le code RGB ou Hex d'un pixel de  la page.
+* [[https://addons.mozilla.org/fr/firefox/addon/colorpicker/|ColorPicker]] ♥♥♥ : vous permet de récupérer rapidement le code RGB ou Hex d'un pixel de  la page. 
+* [[https://addons.mozilla.org/fr/firefox/addon/tile-tabs/|Tile Tabs]] ♥♥♥: permet de diviser l'espace de travail de Firefox en plusieurs tuiles indépendantes, ce qui permet, par exemple, de comparer leurs contenus plus facilement, ou d'observer l'influence de l'une (interface d'administration) sur l'autre (site public)
 
 ===== Divers =====
 * [[https://addons.mozilla.org/fr/firefox/addon/screengrab-fix-version/|ScreenGrab (fix version)]] ♥♥♥ : module permettant la capture d'une page web sous la forme d'image. Extrêmement souple : permet la capture de la page entière, de la partie visible ou seulement d'une sélection ; permet l'enregistrement de la capture dans un fichier, la réception dans le presse-papier ou encore l'envoi vers un serveur.
+* [[https://addons.mozilla.org/fr/firefox/addon/display-_anchors/|Display #Anchors]] ♥♥: permet de rendre les identifiants des éléments dans une page visibles et cliquables. Particulièrement pratique pour faire un lien vers un élément précis à l'intérieur de la page.
 
