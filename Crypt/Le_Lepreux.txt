@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-
-grfg
-=======
-Pbagrag-Glcr: grkg/k-mvz-jvxv
-Jvxv-Sbezng: mvz 0.4
-Perngvba-Qngr: 2017-03-07G15:43:22+01:00
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 
@@ -22,4 +13,3 @@ Wr erphynvf q'ha cnf, rffhlnag znynqebvgrzrag zrf frzryyrf fhe yn zbdhrggr cbhe 
 
 ===== -1. =====
 Har onyyr ra cyrvar cbvgevar, wr z'ra égnvf fbegv ivinag. W'égnvf whfgr ha crh fbaaé. Pbzzr pryn égnvg-vy cbffvoyr ? W'bhievf zn irfgr rg fbegv qr zn cbpur vagéevrher ha tebf ibyhzr. Yn onyyr f'égnvg svpuér à y'vagéevrhe. Wr yhf yr gvger. //Y'Éguvdhr// qr Fcvabmn. Ibvyà dhv inhg ovra har Ovoyr.
->>>>>>> 8c358b4d1ab36ac715cf7439c9715f904dd8529f
