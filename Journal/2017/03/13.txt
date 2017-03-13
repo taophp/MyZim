@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-03-13T09:16:42+01:00
+
+====== Lundi 13 mars 2017 ======
+Vu (enfin) le film d'@Oliver @Stone //Snowden//.
+Je me demande pourquoi @Snowden focalise tant sur les caméras. Si j'étais la NSA, les micro seraient une cible bien plus intéressante : récupération des informations dans toutes les directions, pas de voyant à désactiver, accès aux mots prononcés, et donc au sens.
