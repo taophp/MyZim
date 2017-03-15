@@ -31,8 +31,8 @@ Created vendredi 17 février 2017
 [ ] Install Syncthing
 
 ===== Tab-S =====
-[ ] Activer Développeur mode
-[ ] Next: Install WSL
+[*] Activer Développeur mode
+[*] Next: Install WSL
 [ ] Next: Install Borg
 [ ] Install Syncthing
 [*] Install Zim
