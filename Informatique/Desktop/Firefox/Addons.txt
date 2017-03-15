@@ -9,40 +9,80 @@ Created vendredi 17 février 2017
 Quelques extensions à Firefox que j'apprécie particulièrement ou qui manquent le coche.
 
 ===== Sécurité =====
-* [[https://www.eff.org/https-everywhere|HTTPS Everywhere]] ♥♥♥ : un projet de l'[[https://www.eff.org/|Electronic Frontier Fundation]], ce module permet de basculer automatiquement sur la version https d'un site pour peu que la configuration du plugin le permette. La difficulté tient à ce que les contenus en https ne sont pas nécessairement identiques à ceux en http. Du coup, il est nécessaire de pouvoir décider sur quels sites le basculement automatique doit pouvoir s'effectuer. Le plugin embarque donc un certain nombre de règles modifiables qui définissent les basculement. Le site [[https://www.eff.org/https-everywhere/atlas|HTTPS Everywhere Atlas]] permet de déterminer à quels sites s'applique la configuration par défaut. du module Exite également pour Android, Chrome et Opera.
+
+==== HTTPS Everywhere ====
+[[https://www.eff.org/https-everywhere|HTTPS Everywhere]] ♥♥♥ : un projet de l'[[https://www.eff.org/|Electronic Frontier Fundation]], ce module permet de basculer automatiquement sur la version https d'un site pour peu que la configuration du plugin le permette. La difficulté tient à ce que les contenus en https ne sont pas nécessairement identiques à ceux en http. Du coup, il est nécessaire de pouvoir décider sur quels sites le basculement automatique doit pouvoir s'effectuer. Le plugin embarque donc un certain nombre de règles modifiables qui définissent les basculement. Le site [[https://www.eff.org/https-everywhere/atlas|HTTPS Everywhere Atlas]] permet de déterminer à quels sites s'applique la configuration par défaut. du module Exite également pour Android, Chrome et Opera.
 
 ===== Recherche =====
-* [[https://addons.mozilla.org/fr/firefox/addon/search-in-new-tab/|Search in New Tab]] ♥♥♥ : affiche le résultat d'une recherche dans un nouvel onglet lorsque celle-ci est effectuée depuis la barre de recherche.
-* [[https://addons.mozilla.org/fr/firefox/addon/add-to-search-bar/|Add to Search Bar]] ♥♥♥ : permet d'ajouter n'importe quel champ texte de formulaire à la liste des moteurs de la barre de recherche à l'aide d'un simple clic droit.
+
+==== Search in New Tab ====
+[[https://addons.mozilla.org/fr/firefox/addon/search-in-new-tab/|Search in New Tab]] ♥♥♥ : affiche le résultat d'une recherche dans un nouvel onglet lorsque celle-ci est effectuée depuis la barre de recherche.
+
+==== Add to Search bar ====
+[[https://addons.mozilla.org/fr/firefox/addon/add-to-search-bar/|Add to Search Bar]] ♥♥♥ : permet d'ajouter n'importe quel champ texte de formulaire à la liste des moteurs de la barre de recherche à l'aide d'un simple clic droit.
 
 ===== Marques-pages =====
-* [[https://addons.mozilla.org/fr/firefox/addon/updatebookmark/|UpdateBookmark]] ♥♥ : ajoute une entrée "Update" au menu contextuel d'un marque-page. Celle-ci permet de mettre à jour la destination du lien en la remplaçant par la page courante. Cela se révèle pratique lorsqu'il s'agit de suivre une lecture au long cours.
+
+==== UpdateBookrmark ====
+[[https://addons.mozilla.org/fr/firefox/addon/updatebookmark/|UpdateBookmark]] ♥♥ : ajoute une entrée "Update" au menu contextuel d'un marque-page. Celle-ci permet de mettre à jour la destination du lien en la remplaçant par la page courante. Cela se révèle pratique lorsqu'il s'agit de suivre une lecture au long cours.
 * [[https://addons.mozilla.org/fr/firefox/addon/bookmark-all/|BookmarkAll]] ♥♥ : Permet d'enregistrer la liste des pages ouvertes dans tous les onglets dans un unique dossier de marques-pages. L'enregistrement s'effectue à l'aide de l'entrée "Outils/Bookmark All" ou à l'aide du racourci clavier "Ctl+Alt+D". Le dossier créé est situé dans "Marques-pages/Bookmark All" et a la forme "Bookmarks at : " suivi d'une indication du moment de la création du dossier (date / heure). Cela se révèle utile pour retrouver un ensemble de pages consitutant une session de travail, en particulier à l'aide du menu contextuel de dossiers de marques-pages "Tout ouvrir dans des onglets".
+
+===== Onglets =====
+
+==== Private Tabs ====
+[[https://addons.mozilla.org/fr/firefox/addon/private-tab/|Private Tabs]] : permet de créer des //onglets// de @navigation @privée et, du coup, d'éviter d'ouvrir une fenêtre dédiée, ce qui peut se révéler pratique dans certains cas. Attention au risque d'erreur plus important ! Autre fonctionnalité intéressante : ce module permet de créer des marques-pages qui s'ouvriront systématiquement en navigation privée : il suffit alors de préfixer l'URL par ''private:''//.//
+
+==== Tile Tabs ====
+[[https://addons.mozilla.org/fr/firefox/addon/tile-tabs/|Tile Tabs]] : permet de disposer les onglets en tuile, ce qui se révèle particulièrement pratique pour afficher deux pages (site principal et interface d'administration, par exemple) ou plus en même temps.
 
 ===== Mode "Lecture" =====
 
 ==== Bascule automatique ====
-* [[https://addons.mozilla.org/en-US/firefox/addon/automatic-reader-view/|Automatic Reader View]] ♥ : j'apprécie tout particulièrement le mode "Lecture" qui permet de n'afficher que l'essentiel du page web avec une sobriété sans faute. Toutefois, je ne pense en général à basculer dans ce mode que lorsque que l'expérience de lecture me paraît dégradée dans le mode "Standard". Cela est bien regrettable car, dans la majorité des cas, même si je n'arrive pas au point de basculer, le mode "Lecture" offre une expérience supérieure. Une configuration adéquate de cette extension fait basculer tous les sites qui le permettent en mode "Lecture". Par défaut, ce module permet d'indiquer la liste des sites que l'on souhaite consulter en mode "Lecture" et affiche les autres normalement, mais il est possible d'inverser ce comportement. Attention ! Il ne force pas le mode "Lecture" pour les sites que Firefox en reconnait pas comme adaptés à ce mode. Ce plugin pourrait être amélioré. En effet, l'ajout d'un site à une des listes est trop laborieux : il faut à chaque fois ouvrir options du module pour ce faire. D'autre part, une fois l'ajout effectué, la prise en compte des sous-domaines ne semblent pas très fiable. Par ailleurs, il est peut-être nécesssaire de fermer et rouvrir l'onglet pour que le changement soit pris en comtpe.
-* [[https://addons.mozilla.org/fr/firefox/addon/auto-reader-view/|Auto Reader View]] ♥♥ : permet de passer un site en mode "Lecture" et conserve ce paramétrage, grâce à un simple bouton. Le paramétrage est conservé et valable pour tout le site. Plus pratique de ce point de vue que Automatic Reader View, mais il manque de paramétrage ; en particulier, il ne permet pas de définir le mode "Lecture" comme mode par défaut.
-* [[https://addons.mozilla.org/fr/firefox/addon/autoreaderview/|AutoReaderView]] : permet d'afficher les sites en mode "Lecture" par défaut lorsque cela est possible. Un bouton supplémentaire permet d'activer ou de désactiver ce comportement, mais il n'est pas possible d'effectuer un paramétrage par site.
+J'apprécie tout particulièrement le mode "Lecture" qui permet de n'afficher que l'essentiel du page web avec une sobriété sans faute. Toutefois, je ne pense en général à basculer dans ce mode que lorsque que l'expérience de lecture me paraît dégradée dans le mode "Standard". Cela est bien regrettable car, dans la majorité des cas, même si je n'arrive pas au point de basculer, le mode "Lecture" offre une expérience supérieure. 
 Je n'ai pas trouvé le module que je cherchais, mais j'ai mieux compris mon besoin. Il doit être possible de le créer facilement à partir des sources de ces trois plugins. Voici la liste des fonctionnalités dont je souhaiterai disposer :
 [ ] mode "Lecture" par défaut sur les sites qui le permettent
 [ ] bouton dans la barre d'outil permettant de basculer (avec rechargement de la page) d'un mode à l'autre pour la page en cours en mémorisant le dernier mode,
 [ ] le changement de mode de provoque pas d'ajout à l'historique du navigateur,
 [ ] le dernier mode est mémorisé et étendu par défaut à toutes les pages et toutes les sous-domaines du site, si les pages le permettent et s'il n'y a pas une spécification plus précise,l
 [ ] cette mémorisaton est faite sous la forme d'une règle à base d'expression régulière, modifiable dans les options du module
+Ci-dessous la liste des modules approchant.
+
+=== Automatic Reader View ===
+[[https://addons.mozilla.org/en-US/firefox/addon/automatic-reader-view/|Automatic Reader View]] :Une configuration adéquate de cette extension fait basculer tous les sites qui le permettent en mode "Lecture". Par défaut, ce module permet d'indiquer la liste des sites que l'on souhaite consulter en mode "Lecture" et affiche les autres normalement, mais il est possible d'inverser ce comportement. Attention ! Il ne force pas le mode "Lecture" pour les sites que Firefox en reconnait pas comme adaptés à ce mode. Ce plugin pourrait être amélioré. En effet, l'ajout d'un site à une des listes est trop laborieux : il faut à chaque fois ouvrir options du module pour ce faire. D'autre part, une fois l'ajout effectué, la prise en compte des sous-domaines ne semblent pas très fiable. Par ailleurs, il est peut-être nécesssaire de fermer et rouvrir l'onglet pour que le changement soit pris en comtpe.
+
+=== Auto Reader View ===
+[[https://addons.mozilla.org/fr/firefox/addon/auto-reader-view/|Auto Reader View]] : permet de passer un site en mode "Lecture" et conserve ce paramétrage, grâce à un simple bouton. Le paramétrage est conservé et valable pour tout le site. Plus pratique de ce point de vue que Automatic Reader View, mais il manque de paramétrage ; en particulier, il ne permet pas de définir le mode "Lecture" comme mode par défaut.
+
+=== AutoReader View ===
+[[https://addons.mozilla.org/fr/firefox/addon/autoreaderview/|AutoReaderView]] : permet d'afficher les sites en mode "Lecture" par défaut lorsque cela est possible. Un bouton supplémentaire permet d'activer ou de désactiver ce comportement, mais il n'est pas possible d'effectuer un paramétrage par site.
 
 ==== Autres ====
-* [[https://addons.mozilla.org/en-US/firefox/addon/better-reader/|Better Reader]] ♥♥♥ : ce module permet de personnaliser le mode "Lecture" de façon à l'adapter à ses envies : police, couleur d'arrière-plan, interligne, largeur du texte. Il est possible de tout adapter à ses besoins.
+
+=== Better Reader ===
+[[https://addons.mozilla.org/en-US/firefox/addon/better-reader/|Better Reader]] ♥♥♥ : ce module permet de personnaliser le mode "Lecture" de façon à l'adapter à ses envies : police, couleur d'arrière-plan, interligne, largeur du texte. Il est possible de tout adapter à ses besoins.
 
 ===== Développement =====
-* [[http://getfirebug.com/|Firebug]] ♥♥♥ : l'indispensable outil pour le développeur web. Bon nombre d'extensions existent pour étendre ses fonctionnalités.
-* [[https://addons.mozilla.org/fr/firefox/addon/open-with/|Open With]] ♥♥♥ : d'un clic-droit sur la page courante, permet de l'ouvrir dans le navigateur de son choix, ce qui se révèle pratique pour tester l'aspect d'un site.
-* [[https://addons.mozilla.org/fr/firefox/addon/measureit/developers|MeasureIt]] ♥♥♥ : vous permet de mesurer facilement des éléments sur une page web.
-* [[https://addons.mozilla.org/fr/firefox/addon/colorpicker/|ColorPicker]] ♥♥♥ : vous permet de récupérer rapidement le code RGB ou Hex d'un pixel de  la page. 
-* [[https://addons.mozilla.org/fr/firefox/addon/tile-tabs/|Tile Tabs]] ♥♥♥: permet de diviser l'espace de travail de Firefox en plusieurs tuiles indépendantes, ce qui permet, par exemple, de comparer leurs contenus plus facilement, ou d'observer l'influence de l'une (interface d'administration) sur l'autre (site public)
+
+==== Firebug ====
+[[http://getfirebug.com/|Firebug]] ♥♥♥ : l'indispensable outil pour le développeur web. Bon nombre d'extensions existent pour étendre ses fonctionnalités.
+
+==== Open With ====
+[[https://addons.mozilla.org/fr/firefox/addon/open-with/|Open With]] ♥♥♥ : d'un clic-droit sur la page courante, permet de l'ouvrir dans le navigateur de son choix, ce qui se révèle pratique pour tester l'aspect d'un site.
+
+==== MeasureIt ====
+[[https://addons.mozilla.org/fr/firefox/addon/measureit/developers|MeasureIt]] ♥♥♥ : vous permet de mesurer facilement des éléments sur une page web.
+
+==== ColorPicker ====
+[[https://addons.mozilla.org/fr/firefox/addon/colorpicker/|ColorPicker]] ♥♥♥ : vous permet de récupérer rapidement le code RGB ou Hex d'un pixel de  la page. 
 
 ===== Divers =====
-* [[https://addons.mozilla.org/fr/firefox/addon/screengrab-fix-version/|ScreenGrab (fix version)]] ♥♥♥ : module permettant la capture d'une page web sous la forme d'image. Extrêmement souple : permet la capture de la page entière, de la partie visible ou seulement d'une sélection ; permet l'enregistrement de la capture dans un fichier, la réception dans le presse-papier ou encore l'envoi vers un serveur.
-* [[https://addons.mozilla.org/fr/firefox/addon/display-_anchors/|Display #Anchors]] ♥♥: permet de rendre les identifiants des éléments dans une page visibles et cliquables. Particulièrement pratique pour faire un lien vers un élément précis à l'intérieur de la page.
+
+==== ScreenGrab ====
+[[https://addons.mozilla.org/fr/firefox/addon/screengrab-fix-version/|ScreenGrab (fix version)]] ♥♥♥ : module permettant la capture d'une page web sous la forme d'image. Extrêmement souple : permet la capture de la page entière, de la partie visible ou seulement d'une sélection ; permet l'enregistrement de la capture dans un fichier, la réception dans le presse-papier ou encore l'envoi vers un serveur.
+
+==== Display #Anchors ====
+[[https://addons.mozilla.org/fr/firefox/addon/display-_anchors/|Display #Anchors]] ♥♥: permet de rendre les identifiants des éléments dans une page visibles et cliquables. Particulièrement pratique pour faire un lien vers un élément précis à l'intérieur de la page.
+
+==== Mozilla Archive Format ====
+[[http://maf.mozdev.org/|Mozilla Archive Format]] : permet d'archiver une page web telle qu'elle apparaît, à la différence de la fonction "Enregistrer sous" qui pose souvent problème. Cette extension supporte deux formats d'export : @MAFF, un format d'archivage propre à Firefox, et @MHT, le format d'Internet Explorer, intéressant pour s'asssurer qu'un utilisateur de @Windows pourra ouvrir l'archive dans tous les cas. L'extension permet également à Firefox d'ouvrir ses formats de fichiers (qui ne sont pas supportés nativement), et, du coup, présente un intérêt particulier pour les utilisateurs de @Linux qui souhaiteraient ouvrir un fichier MHT.
 
