@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-03-21T14:27:30+01:00
+
+====== DNS ======
+Created mardi 21 mars 2017
+
+* explication de l'[[https://en.wikipedia.org/wiki/Wildcard_DNS_record|utilisation des @astériques (en anglais @wildcards) dans les engistrements DNS]] sur Wikipedia (EN)
