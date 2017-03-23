@@ -13,6 +13,8 @@ define('RELOCATE',true);
 }}}
 
 au début du fichier wp-config.php, de se reconnecter à l'interface d'administration, de faire les modifications nécessaires dans "Réglages" puis de supprimer à nouveau la ligne.
+Ceci n'est pas suffisant pour corriger les données en base...
+Il faut alors lancer l'extensions [[https://fr.wordpress.org/plugins/velvet-blues-update-urls/|Velvet Blues Update URLs]]
 
 ===== Documentation fonction multisite =====
 * [[https://codex.wordpress.org/fr:Cr%C3%A9er_un_r%C3%A9seau|Créer un réseau multisite (à la Wordpress.com)]]

@@ -63,9 +63,6 @@ Ci-dessous la liste des modules approchant.
 
 ===== Développement =====
 
-==== Firebug ====
-[[http://getfirebug.com/|Firebug]] ♥♥♥ : l'indispensable outil pour le développeur web. Bon nombre d'extensions existent pour étendre ses fonctionnalités.
-
 ==== Open With ====
 [[https://addons.mozilla.org/fr/firefox/addon/open-with/|Open With]] ♥♥♥ : d'un clic-droit sur la page courante, permet de l'ouvrir dans le navigateur de son choix, ce qui se révèle pratique pour tester l'aspect d'un site.
 
@@ -74,6 +71,9 @@ Ci-dessous la liste des modules approchant.
 
 ==== ColorPicker ====
 [[https://addons.mozilla.org/fr/firefox/addon/colorpicker/|ColorPicker]] ♥♥♥ : vous permet de récupérer rapidement le code RGB ou Hex d'un pixel de  la page. 
+
+==== Auto reload ====
+[[https://addons.mozilla.org/fr/firefox/addon/auto-reload/|Auto Reload]] : recharge automatiquement une page lors de la modification d'un fichier local, évite ainsi de faire une rafraîchissement manuel à chaque fois que l'on souhaite expérimenter les derniers changements.
 
 ===== Divers =====
 
