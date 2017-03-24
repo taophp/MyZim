@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-03-24T09:22:15+01:00
+
+====== JQuery ======
+Created vendredi 24 mars 2017
+
+===== Plugins =====
+
+==== Select2 ====
+[[https://select2.github.io/|Select2]] est un beau remplacement des listes déroulantes, permettant de résoudre la plupart, sinon tous, les problèmes que ceux-ci peuvent poser en terme d'ergonomie et de pilotage programmatique. La [[https://select2.github.io/examples.html|démo]] est très convaincainte.

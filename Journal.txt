@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-03-24T12:25:06+01:00
+
+====== Journal ======
+Created vendredi 24 mars 2017
+Zim n'est pas terrible pour rendre son journal lisible en ligne, dans la mesure où les pages années ne listent automatiquement ni les pages mois, ni les pages jours ayant un contenu et que les pages mois ne listent pas automatiquement les pages jours ayant un contenu. Tout cela doit être fait à la main, avec les risques d'erreurs et d'oublis que cela comprend.
+
+Mais pourquoi pas ?
+
+* [[Journal:2017|2017]]
