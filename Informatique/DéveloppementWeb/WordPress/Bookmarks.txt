@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-02-28T16:38:33+01:00
+
+====== Bookmarks ======
+Created mardi 28 février 2017
+
+===== Réinitialiser le baseurl =====
+
+* @howto @réinitialiser le @baseurl ? https://codex.wordpress.org/Changing_The_Site_URL -> le mieux étant d'ajouter
+{{{code: lang="php" linenumbers="True"
+define('RELOCATE',true);
+}}}
+
+au début du fichier wp-config.php, de se reconnecter à l'interface d'administration, de faire les modifications nécessaires dans "Réglages" puis de supprimer à nouveau la ligne.
+Ceci n'est pas suffisant pour corriger les données en base...
+Il faut alors lancer l'extensions [[https://fr.wordpress.org/plugins/velvet-blues-update-urls/|Velvet Blues Update URLs]]
+
+===== Documentation fonction multisite =====
+* [[https://codex.wordpress.org/fr:Cr%C3%A9er_un_r%C3%A9seau|Créer un réseau multisite (à la Wordpress.com)]]
+* [[https://wordpress.org/plugins/search.php?q=multisite|Plugins offrant des fonctionnalités supplémentaires en multisite]]
