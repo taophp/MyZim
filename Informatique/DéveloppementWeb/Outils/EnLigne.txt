@@ -8,3 +8,6 @@ Created lundi 27 février 2017
 ===== Générateur de CSS =====
 * [[http://css3generator.com/|CSS3Generator]] : un générateur de CSS3 permettant d'intervenir sur différents aspects (flexbox, bordure, font-face, transition, transformation, dégradé, ombre portée...) avec une interface très facile d'utilisation.
 * [[http://www.border-image.com|Border Image Generator]] : un générateur de CSS qui permet d'utiliser une image comme bordure d'un élément. Permet de faire des bordures bien plus sophistiquées que le HTMl n'en permet de base.
+
+===== Tester PHP =====
+* un site permettant de test du code PHP avec plus de 200 versions différentes de PHP : [[https://3v4l.org|3v4l]]
