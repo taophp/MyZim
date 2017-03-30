@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-03-30T17:02:45+02:00
+
+====== Paramétrer PHP afin qu'il utilise le proxy système pour ses connexions sortantes ======
+Created jeudi 30 mars 2017
+
+[[https://medium.com/@thomasdecaux/param%C3%A9trer-par-d%C3%A9faut-un-proxy-pour-php-file-get-content-3e9a32416979|Source]]
+En gros utiliser la directive de configuration [[PhpStart|auto_prepend_file]] pour exécuter le script PHP suivant :
+
+{{{code: lang="php" linenumbers="True"
+<?php
+$proxy = getenv('http_proxy');
+if (!empty($proxy)) {
+    $proxy = str_replace('http://', 'tcp://', $proxy);
+    echo "Found a proxy " . $proxy . PHP_EOL;
+    $context = array(
+        'http' => array(
+            'proxy' => $proxy,
+            'request_fulluri' => true,
+            'verify_peer'      => false,
+            'verify_peer_name' => false,
+        ),
+        "ssl"=>array(
+        "verify_peer"=>false,
+        "verify_peer_name"=>false
+        )
+    );
+    stream_context_set_default($context);
+} else {
+    echo "Proxy not found" . PHP_EOL;
+}
+}}}
+
+qui effectuera la détection du proxy système pour forcer son utilisation lors de toutes les connexions sortantes.

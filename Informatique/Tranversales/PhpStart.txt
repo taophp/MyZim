@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-03-30T17:06:20+02:00
+
+====== Paramétrer PHP pour qu'il inclut/exécuter toujours un fichier PHP à son démarrage ======
+Created jeudi 30 mars 2017
+* Modifier la configuration de PHP (auparavant, cela se faisait dans le ''php.ini'', mais aujourd'hui, on a droit à une configuration plus complexe dans ''/etc/php7.0'' où il faut ajouter un fichier dans le dossier ''mods-available'', puis le lier (''ln -s'') dans les dossiers ''cli'' et ''fpm'' pour rendre la configuration active dans les contextes appropriés).
+* La directive qui permet l'inclusion d'un fichier est [[PhpStart|auto_prepend_file]] qui prend pour valeur le chemin vers le fichier PHP à inclure
