@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-04-04T16:56:07+02:00
+
+====== LinuxMag ======
+Created mardi 04 avril 2017
+
+* [[+Idées|Idées d'articles]]

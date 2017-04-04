@@ -10,7 +10,6 @@ Ceci est mon wiki personnel. Pour le moment, il ne s'agit que d'une expérimenta
 Il me tient lieu également de [[Journal]]. Mais il faut considérer tout cela comme un vaste brouillon.
 
 Créé avec [[http://www.zim-wiki.org|Zim]], l'outil de création wiki pour Desktop.
-L'idée est maintenant d'utiliser [[https://syncthing.net|Syncthing]] pour rendre ces données ubiquitaires et la publication automatique sur le web : si cela réussit, il se pourrait bien que je m'en serve pour mon site, au moins pour une partie "Notes".
 
 ===== Principales entrées =====
 * [[Journal]]

@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2017-03-07T16:44:45+01:00
-
-====== Crypt ======
-Created mardi 07 mars 2017
-
