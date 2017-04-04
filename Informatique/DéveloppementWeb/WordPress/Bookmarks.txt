@@ -19,3 +19,7 @@ Il faut alors lancer l'extensions [[https://fr.wordpress.org/plugins/velvet-blue
 ===== Documentation fonction multisite =====
 * [[https://codex.wordpress.org/fr:Cr%C3%A9er_un_r%C3%A9seau|Créer un réseau multisite (à la Wordpress.com)]]
 * [[https://wordpress.org/plugins/search.php?q=multisite|Plugins offrant des fonctionnalités supplémentaires en multisite]]
+
+===== Redimensionnement automatique d'images =====
+* [[https://fr.wordpress.org/plugins/adaptive-images/|Module permettant d'envoyer des images redimensionnées selon le périphérique]]
+* [[https://fr.wordpress.org/plugins/imsanity/|Module redimensionnant automatiquement les images envoyées par le rédacteur en-dessous des dimensions indiquées]] et en mesure de redimensionner les images déjà présentes en mode "Bulk"
