@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-04-07T12:09:36+02:00
+
+====== Portables ======
+Created vendredi 07 avril 2017
+
+L'intérêt des applications portables est qu'elles n'ont pas besoin d'être installées pour fonctionner, on peut du coup aisément les transporter avec soi dans un dossier sur un clé USB ou un lecteur réseau. Par ailleurs, le plus souvent, il n'est pas nécessaire de bénéficier d'une élévation de droits pour les utiliser.
+
+===== Réseaux =====
+* [[https://mremoteng.org|mRemoteNG]] : vous recherchez une seule interface pour gérer toutes vos connections distantes sur n'importe quel protocole ? mRemoteNG est alors l'outil qu'il vous faut ! La liste des protocoles supportés est longue (SSH, VNC, RDP, Telnet) et l'interface utilisateur se révèle particulièrement pratique. Choisir le téléchargement au format ''zip'' pour obtenir la version portable.

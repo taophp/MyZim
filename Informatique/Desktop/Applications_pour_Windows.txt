@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-04-07T12:07:36+02:00
+
+====== Applications pour Windows ======
+Created vendredi 07 avril 2017
+Bien que Windows soit une plateforme dont on peut se plaindre à longueur de journée, on est parfois contraint de l'utiliser. Après quelques années sans souci, voilà que c'est à nouveau mon cas. Voici quelques unes des applications que je recommande pour survivre dans une situation aussi tragique.
+Je ne recommande que des [[https://fr.wikipedia.org/wiki/Logiciel_libre|logicielsl libres]] et/ou [[https://fr.wikipedia.org/wiki/Open_source|OpenSource]]. Ils sont donc gratuits.
+
+* [[+Portables|Portables]] : l'intérêt des applications portables est qu'elles n'ont pas besoin d'être installées pour fonctionner, on peut du coup aisément les transporter avec soi dans un dossier sur un clé USB ou un lecteur réseau. Par ailleurs, le plus souvent, il n'est pas nécessaire de bénéficier d'une élévation de droits pour les utiliser.
