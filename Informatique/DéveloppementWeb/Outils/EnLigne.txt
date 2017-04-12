@@ -11,3 +11,6 @@ Created lundi 27 février 2017
 
 ===== Tester PHP =====
 * un site permettant de test du code PHP avec plus de 200 versions différentes de PHP : [[https://3v4l.org|3v4l]]
+
+===== Génération de thème graphique =====
+* [[http://paletton.com/|Paletton]] : à partir d'une couleur, génère des palettes et permet de les visualiser. Très belle réalisation, très pratique à utiliser.
