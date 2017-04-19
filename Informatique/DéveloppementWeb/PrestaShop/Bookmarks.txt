@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-04-19T10:23:49+02:00
+
+====== Bookmarks ======
+Created mercredi 19 avril 2017
+
+* [[https://www.prestashop.com/blog/en/difference-product-attribute-product-feature/|Différence entre attribut et caractéristiques]]
