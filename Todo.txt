@@ -5,37 +5,6 @@ Creation-Date: 2017-02-17T10:05:57+01:00
 ====== Todo ======
 Created vendredi 17 février 2017
 
-===== S1 =====
-[*] Install Docker
-[ ] Install Site Zim
-[ ] Install Docker Syncthing
-
-===== S2 =====
-[*] Install OS depuis S1
-[*] update FStab
-
-===== PC-C =====
-[ ] Install Borg
-
-===== PC-F =====
-[*] Test Kubuntu Live
-[*] Test Cheese sur Kubuntu Live
-[ ] Backup données
-[ ] Next: Install Kubuntu
-[ ] Next: Install Cheese
-[ ] Next: Install Borg
-
-===== PC-S =====
-[ ] Vérifier Backup
-[*] Install zim
-[ ] Install Syncthing
-
-===== Tab-S =====
-[*] Activer Développeur mode
-[*] Next: Install WSL
-[ ] Next: Install Borg
-[ ] Install Syncthing
-[*] Install Zim
 
 
 
