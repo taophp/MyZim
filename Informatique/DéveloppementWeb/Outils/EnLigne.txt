@@ -14,3 +14,6 @@ Created lundi 27 février 2017
 
 ===== Génération de thème graphique =====
 * [[http://paletton.com/|Paletton]] : à partir d'une couleur, génère des palettes et permet de les visualiser. Très belle réalisation, très pratique à utiliser.
+
+===== Images de remplissage =====
+* [[http://loremflickr.com/|LoremFlickr]] : permet de générer des images de remplissage aux dimensions de votre choix, noir et blanc, monochrome, à partir de mots-clefs, aux dimensions de votre choix. Les images proviennent de Flicker et sont sous licence Creative Commons.
