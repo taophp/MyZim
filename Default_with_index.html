@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8">
+	<title>[% title %] - Zim - StephaneMourey.fr</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name='Generator' content='[% generator.name %]'>
+	<link rel="stylesheet" href="http://stephanemourey.fr/res/bootstrap.min.css">
+	<link rel="stylesheet" href="http://stephanemourey.fr/res/webfonts/droidserif_regular_macroman/stylesheet.css">
+	<link rel="stylesheet" href="http://stephanemourey.fr/res/webfonts/gnutypewriter/stylesheet.css">
+	<script src="http://stephanemourey.fr/res/jquery-3.2.1.min.js"></script>
+	<script src="http://stephanemourey.fr/res/tether.min.js"></script>
+	<script src="http://stephanemourey.fr/res/bootstrap.min.js"></script>
+	<script src="http://stephanemourey.fr/res/jquery.ba-hashchange.js"></script>
+	<script src="http://stephanemourey.fr/res/js.cookie.js"></script>
+	<script src="http://stephanemourey.fr/res/js.cookie.js"></script>
+	<script src="http://stephanemourey.fr/res/jquery.paging.min.js"></script>
+	<link rel="stylesheet" href="http://stephanemourey.fr/res/main.css">
+</head>
+<body>
+<div class="jumbotron jumbotron-fluid">
+	<div class="container card text-center card-inverse">
+		<h1 class="display-2">[% title %]</h1>
+		<header class="container"><a href="http://stephanemourey.fr">StephaneMourey<small>.fr</small></a> > <a href="/">Zim</a> > [% title %]</header>
+	</div>
+</div>
+
+<div id="container" class="container">
+	<div class="card-column">
+	<div class="card text-justify unflex">
+
+		<div class="card-block">
+<!-- Wiki content -->
+<!--[% FOR page IN pages %]-->
+	[% page.body %]
+
+	<!--[% FOR file IN page.attachments %]-->
+		[% IF loop.first %]
+			<hr>
+			<strong>Pièces jointes:</strong>
+			<ul>
+		[% END %]
+
+			<li><a href='[% uri(file) %]'>[% file.basename %]</a></td><td>&nbsp;</td><td>[% file.size %]</li>
+
+		[% IF loop.last %]
+			</ul>
+		[% END %]
+	<!--[% END %]-->
+
+	[% IF not loop.last %]<hr />[% END %]
+
+<!--[% END %]-->
+		</div>
+	</div>
+</div>
+
+	<footer>
+		<div class="footermenu">
+
+			<a href="/README.html">A propos</a>
+
+
+
+		</div>
+		<div class="licence">
+			<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
+		</div>
+	</footer>
+</div>
+</body>
+</html>
