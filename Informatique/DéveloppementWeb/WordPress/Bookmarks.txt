@@ -7,10 +7,9 @@ Created mardi 28 février 2017
 
 ===== Réinitialiser le baseurl =====
 
-* @howto @réinitialiser le @baseurl ? https://codex.wordpress.org/Changing_The_Site_URL -> le mieux étant d'ajouter
-{{{code: lang="php" linenumbers="True"
-define('RELOCATE',true);
-}}}
+* @howto @réinitialiser le @baseurl ? https://codex.wordpress.org/Changing_The_Site_URL -> le mieux étant d'ajouter :
+
+''define('RELOCATE',true);''
 
 au début du fichier wp-config.php, de se reconnecter à l'interface d'administration, de faire les modifications nécessaires dans "Réglages" puis de supprimer à nouveau la ligne.
 Ceci n'est pas suffisant pour corriger les données en base...

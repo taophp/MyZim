@@ -6,7 +6,7 @@ home=index
 icon=./perso3.png
 document_root=
 shared=True
-endofline=dos
+endofline=unix
 disable_trash=False
-profile=
+profile=None
 
