@@ -22,3 +22,8 @@ Il faut alors lancer l'extensions [[https://fr.wordpress.org/plugins/velvet-blue
 ===== Redimensionnement automatique d'images =====
 * [[https://fr.wordpress.org/plugins/adaptive-images/|Module permettant d'envoyer des images redimensionnées selon le périphérique]]
 * [[https://fr.wordpress.org/plugins/imsanity/|Module redimensionnant automatiquement les images envoyées par le rédacteur en-dessous des dimensions indiquées]] et en mesure de redimensionner les images déjà présentes en mode "Bulk"
+
+===== Gérer de multiples instances depuis une seule =====
+Il ne s'agit pas d'une instance multi-site, mais bien de gérer plusieurs instances depuis une interface unique.
+* Extension [[https://mainwp.com/|MainWP]]
+* [[https://wpmarmite.com/maintenance-wordpress-mainwp/%C2%B2|Article sur l'extension MainWP]]
