@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-05-16T23:16:25+02:00
+
+====== Nginx ======
+Created mardi 16 mai 2017
+
+===== Requêtes Cross Origin pour les polices =====
+Autoriser les requêtes Cross Origin pour les polices de caractères : ajouter cette configuration à la section ''server'' concernée :
+{{{code: lang="ini" linenumbers="True"
+location ~* \.(eot|ttf|woff|woff2)$ {
+	add_header Access-Control-Allow-Origin *;
+}
+}}}
+
+Source: https://serverfault.com/questions/162429/how-do-i-add-access-control-allow-origin-in-nginx
