@@ -15,5 +15,5 @@ Created Wednesday 17 May 2017
 	* Rafraîchir les privilèges :
 		FLUSH PRIVILEGES;
 
-[[Plus de détails.]]
+Plus de détails.
 
