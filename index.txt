@@ -15,7 +15,8 @@ Créé avec [[http://www.zim-wiki.org|Zim]], l'outil de création wiki pour Desk
 * [[Journal]]
 * [[Informatique]]
 * [[Textes]]
-* [[Divers]]
+* [[+Recettes|Recettes]]
+* [[+Divers]]
 
 ===== Marques-pages =====
 * [[Informatique:Desktop:Firefox:Addons|Mes modules favoris pour Firefox]]

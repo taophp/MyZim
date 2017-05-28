@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-03-25T17:41:29+01:00
+
+====== Informatique ======
+Created samedi 25 mars 2017
+
+* [[Informatique:Desktop|Desktop]]
+* [[Informatique:DéveloppementWeb|Developpement web]]
+* [[Informatique:Réseaux|Réseaux]]
+* [[Informatique:Serveur|Serveur]]
+* [[+Tranversales|Sujets transversaux]]
