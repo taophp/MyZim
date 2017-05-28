@@ -7,16 +7,16 @@ Created vendredi 17 février 2017
 
 Ceci est mon wiki personnel. Pour le moment, il ne s'agit que d'une expérimentation. Le but est de trouver un outil me permettant à la fois d'organiser, de conserver et de publier tout en pouvant y travailler en tout lieu, ou presque. **Bien des choses que vous trouverez ici ne sont qu'à l'état d'ébauche**.
 
-Il me tient lieu également de [[+Journal]]. Mais il faut considérer tout cela comme un vaste brouillon.
+Il me tient lieu également de [[+Journal|Journal]]. Mais il faut considérer tout cela comme un vaste brouillon.
 
 Créé avec [[http://www.zim-wiki.org|Zim]], l'outil de création wiki pour Desktop.
 
 ===== Principales entrées =====
-* [[+Journal]]
-* Informatique
-* [[+Textes]]
+* [[+Informatique|Informatique]]
+* [[+Textes|Textes]]
 * [[+Recettes|Recettes]]
-* [[+Divers]]
+* [[+Divers|Divers]]
+* [[+Journal|Journal]]
 
 ===== Marques-pages =====
 * Mes modules favoris pour Firefox
