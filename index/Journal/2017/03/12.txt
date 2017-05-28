@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-03-12T16:27:17+01:00
+
+====== Dimanche 12 mars 2017 ======
+
+===== Note sur Docker =====
+@Docker
+Lorsque l'on cherche à écrire un @DockerFile, une bonne @méthode peut consister à lancer le @container de départ avec une @ligne de @commande ouverte et de logguer ce que l'on fait à l'aide de la commande ''script'' qui enregistrel les commandes lancées pendant la session. Une fois le container prêt, il ne reste plus qu'à reprendre le contenu du fichier de log créé par ''script'' et d'en retirer les commandes utiles à placer dans le DockerFile
+
+

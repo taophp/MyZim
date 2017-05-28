@@ -6,7 +6,7 @@ Creation-Date: 2017-03-30T17:02:45+02:00
 Created jeudi 30 mars 2017
 
 [[https://medium.com/@thomasdecaux/param%C3%A9trer-par-d%C3%A9faut-un-proxy-pour-php-file-get-content-3e9a32416979|Source]]
-En gros utiliser la directive de configuration [[:Informatique:Tranversales:PhpStartStop|auto_prepend_file]] pour exécuter le script PHP suivant :
+En gros utiliser la directive de configuration auto_prepend_file pour exécuter le script PHP suivant :
 
 {{{code: lang="php" linenumbers="True"
 <?php

@@ -6,7 +6,7 @@ Creation-Date: 2017-03-30T17:30:38+02:00
 Created jeudi 30 mars 2017
 
 ===== Sujets transverseaux =====
-* [[:Informatique:Tranversales:PhpProxy|paramétrer PHP pour utiliser systématiquement le proxy système pour ses connexions sortantes]]
-* [[:Informatique:Tranversales:PhpStartStop|paramétrer PHP pour toujours commencer par l'inclusion/exécution d'un fichier PHP lors de son démarrrage]]
+* paramétrer PHP pour utiliser systématiquement le proxy système pour ses connexions sortantes
+* paramétrer PHP pour toujours commencer par l'inclusion/exécution d'un fichier PHP lors de son démarrrage
 
 [[+MySQL|MySQL]]
