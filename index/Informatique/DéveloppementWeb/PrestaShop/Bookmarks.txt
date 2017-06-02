@@ -6,3 +6,4 @@ Creation-Date: 2017-04-19T10:23:49+02:00
 Created mercredi 19 avril 2017
 
 * [[https://www.prestashop.com/blog/en/difference-product-attribute-product-feature/|Différence entre attribut et caractéristique]]
+* [[https://www.prestashop.com/forums/topic/85815-resolu-mise-a-jour-des-stocks-automatique-en-csv/|Un exemple de script permettant l'import automatisé de données]] : concerne une version ancienne de [[PrestaShop]] et gère le stock ; il y a sans doute des adaptions à faire, mais l'essentiel des difficultés y est résolu, en particulier le problème de l'authentification dans le BO.
