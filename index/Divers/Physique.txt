@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-06-08T13:55:04+02:00
+
+====== Physique ======
+Created Thursday 08 June 2017
+
+* Stephen Hawking dans un pitoyable documentaire de vulgarisation scientifique où il joue le rôle de caution (mais sans doute a-t-il déjà eu l'occasion de le dire ailleurs) estime que le possibilité de paradoxe est un argument suffisant pour nier la possibilité de voyage dans le passé. À supposer que l'argument soit valide, ce doddnt je ne suis pas certain, il n'interdit pas le voyage vers le passé, mais seulement vers un lieu de l'espace-temps qui se trouve dans le [[https://fr.wikipedia.org/wiki/C%C3%B4ne_de_lumi%C3%A8re|cône de lumière]] (notion qu'il m'a apprise dans //Une Brève Histoire du Temps//) passé. Hors de ce cône, le risque de paradoxe est écarté. L'idée folle qui m'est venue à la suite de cette réflexion, c'est que de là, on peut imaginer le temps comme une dimension presque ordinaire. En effet, quel intérêt pourrait-il y avoir à voyager dans le passé hors de son cône de lumière ? Certainement pas de connaître ou de modifier son passé. L'intérêt le plus évident est d'échapper à la fin de l'Univers. S'il est possible de déplacer l'Humanité, à supposer qu'elle existe toujours (rires), des derniers moments de l'Univers, vers un lieu plus ancien hors de son cône de lumière, on lui redonne un avenir. L'Univers est vaste. Combien de fois cela serait-il possible sans que les cônes de lumières se chevauchent ? Combien de temps cela nous donnerait-il ?
