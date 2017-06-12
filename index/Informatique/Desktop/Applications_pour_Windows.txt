@@ -6,5 +6,13 @@ Creation-Date: 2017-04-07T12:07:36+02:00
 Created vendredi 07 avril 2017
 Bien que Windows soit une plateforme dont on peut se plaindre à longueur de journée, on est parfois contraint de l'utiliser. Après quelques années sans souci, voilà que c'est à nouveau mon cas. Voici quelques unes des applications que je recommande pour survivre dans une situation aussi tragique.
 Je ne recommande que des [[https://fr.wikipedia.org/wiki/Logiciel_libre|logicielsl libres]] et/ou [[https://fr.wikipedia.org/wiki/Open_source|OpenSource]]. Ils sont donc gratuits.
+La plupart d'entre eux sont installables via Chocolatey, un outil qui rend la gestion d'applications supportable sous Windows et que je recommande chaudement.
 
-* [[+Portables|Portables]] : l'intérêt des applications portables est qu'elles n'ont pas besoin d'être installées pour fonctionner, on peut du coup aisément les transporter avec soi dans un dossier sur un clé USB ou un lecteur réseau. Par ailleurs, le plus souvent, il n'est pas nécessaire de bénéficier d'une élévation de droits pour les utiliser.
+J'utilisais beaucoup fut un temps les logiciels dit "portables", qui ne nécessitent pas d'installation pour fonctionner. J'avoue avoir pratiquement abandonné cette approche depuis que j'ai découvert Chocolatey. Néanmoins, ils peuvent rendre de grands services à l'occasion. Dans ce cadre, je vous recommande de piocher du côté de la [[https://framakey.org/Main/Index|Framakey]].
+ 
+
+===== Réseaux =====
+* [[https://mremoteng.org|mRemoteNG]] : vous recherchez une seule interface pour gérer toutes vos connections distantes sur n'importe quel protocole ? mRemoteNG est alors l'outil qu'il vous faut ! La liste des protocoles supportés est longue (SSH, VNC, RDP, Telnet) et l'interface utilisateur se révèle particulièrement pratique. Choisir le téléchargement au format ''zip'' pour obtenir la version portable.
+
+===== Ligne de commande =====
+* [[http://www.mpg123.org|MPG123]] : un player mp3, simple, efficace; existe aussi sous Linux.
