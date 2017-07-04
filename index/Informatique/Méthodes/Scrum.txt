@@ -1,0 +1,89 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-07-04T09:21:13+02:00
+
+====== Scrum ======
+Created Tuesday 04 July 2017
+
+Notes prises au fil de l'eau lors d'une formation.
+
+On essaie de conserver toujours le même rythme. Si il y a des jours fériés ou des congés, on réduit les user stories à couvrir durant le sprint pour conserver le même rythme. S'il faut déplacer un événement, alors on ressert.
+On préférera faire le sprint review et le sprint restrospective le vendredi, le sprint planning le lundi.
+Le product owner (PO) recueille toutes les users stories dans le backlog. Le PO hiérarchise les users stories et détaille les prioritaires. Il les distribue ensuite dans différentes itérations lors du story mapping dans l'ordre de priorité. Le story mapping sert de base au sprint backlog qui décrit les user stories à couvrir lors du sprint.
+
+Story maping
+Impact maping
+
+===== User Story =====
+
+L'user story est définit par :
+* une description
+* des critères d'acceptation
+* une estimation
+* un ordonnacement
+
+==== Couleur d'un user story ====
+										Ajoute de la valeur
+										
+Visible des parties prenantes			Fonctionnalité visible (vert)	Technique (architecture, outils...)(jaune)			Visible des équipiers
+							Defaut, bug (rouge)			Dette technique (noir)
+							
+										Enlève de la valeur
+
+==== Format d'une user story ====
+
+Nom					Priorité/valeur métieur
+Description
+
+Critères d'acceptation		Charge
+
+La priorité pourrait très bien être estimé par un poker, genre planning poker mais sur l'importance de la fonctionnalité plutôt que de la charge, avec des utilisateurs finaux.
+
+La descriptiio peut être donné sur la forme d'un tryptique : conditions de départ/action/résultat attendu. Voir Gerkhins. Phrase type "Etant donné que cela, lorsque je fais ceci, alors j'obtiens tel résultat.
+Les jeux de données et les scénarios constituent les tests d'acceptation.
+
+Chaque user story doit être INVEST:
+* Indépendante
+* Négociable
+* Valeur ; source de valeur pour l'utilisateur ou le client final
+* Estimée par l'équipe de développement
+* Small : suffisement petit pour être traitée durant un seul sprint
+* Testable
+
+Lorsqu'une user story remplit ces critères, elle est alors "ready", prête à rentrer dans un sprint
+
+===== Repères de taille =====
+		Unité de temps	Echelle pour l'entité
+Epopée		Mois			Produit
+Fonction		Semaines	Version/Release
+User Story	Jours		Sprint
+Tâche		Heures		Sprint
+
+
+===== Priorisation =====
+Méthode MoSCoW : il s'agit de classer les Users Stories en quatre catégories :
+* Must Have
+* Should have
+* Could have
+* Won't have
+
+Pour parvenir à ce classement, plusieurs méthodes peuvent être utilisées. Par exemple :
+* Tri à bulle (comparaison des éléments deux à deux pour les ordonner)
+* achat de fonctionnalités : demander aux utilisateurs d'acheter les fonctionnalités : à chacun d'eux, on remet 1000 points, ils doivent alors acheter les fonctionnalités
+* canot de sauvetage : on jette tout en ordre d'importance inverse
+* attribuer à chaque user story un niveau d'urgence et un niveau de valeur métier et multiplier l'un par l'autre : le nombre le plus élevé est la tâche la plus prioritaire
+
+Outils :
+* Easy Backlog
+* Trello
+* JIRA
+
+===== Affinage =====
+Régulièrement, on peut faire une réunion d'affinage qui permet de mieux définir le contenu d'une user story. Limiter à 10% de la capacité de l'équipe.
+
+===== Tableau =====
+4 colonnes :
+1. Backlog
+2. Spring backlog
+3. En cours
+4. Terminé
