@@ -9,4 +9,4 @@ Created vendredi 07 avril 2017
 * [[+Firefox|Firefox]]
 * [[+Outils pour l'écriture|Outils pour l'écriture]]
 * [[+Applications pour Windows|Applications pour Windows]]
-* [[+Windows|Windows]]
+* [[+Applications pour Linux|Applications pour Linux]]
