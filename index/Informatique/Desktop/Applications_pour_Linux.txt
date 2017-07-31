@@ -6,4 +6,4 @@ Creation-Date: 2017-07-07T12:20:36+02:00
 Created Friday 07 July 2017
 
 * Mind mapping : vym
-* Cards (Scrum-like?) : tuxcards (pas très visuel, mais fonctionnel ?)
+* Cards (Scrum-like?) : tuxcards (pas très visuel, mais fonctionnel ?)0206
