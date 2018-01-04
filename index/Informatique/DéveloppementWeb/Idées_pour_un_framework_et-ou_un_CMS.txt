@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2017-03-06T10:14:20+01:00
 
-====== Idées pour un framework et/ou un CMS ? ======
+====== 6Idées pour un framework et/ou un CMS ? ======
 Created lundi 06 mars 2017
 @web @développement @cms @framework
 
@@ -38,6 +38,8 @@ Le workflow devient :
 	b. si elle n'existe pas, génération de la ressource par PHP, renvoi des données à l'utilisateur et enregistrement dans le système de fichiers
 
 Imaginons le scénario pour une image, cas particulièrement parlant. Avec un design responsiv, on peut imaginer que les images, au moins certaines, aient leurs dimensions déterminées par JavaScript. Imaginons que la page affiche une image ''http://exemple.com/img.png'' mais de dimensions différentes selon la taille de la fenêtre, dimensions calculées lors de l'affichage (ou du redimensionnement). Mettons que les dimensions de l'image à afficher soient de 160px de large sur 90px de haut. De là, JavaScript en déduit une URL contenant des informations concernant à la fois l'image d'origine et les dimensions à laquelle on souhaite la voir, soit dans notre cas, quelque chose comme ''http://exemple.com/img-160x90.png''. Puis il effectue le chargement de l'image. Le serveur web reçoit la demande. S'il trouve le fichier en question (si l'image a déjà été redimensionnée), il envoie le fichier directement. Sinon, il envoie la requête au script PHP, mettons ''http://exemple.com/index.php''. Il est important de remarquer que, dans tous les cas, le serveur web ne lève pas d'erreur 404. Ce n'est que le script PHP, s'il n'est pas capable de gérer l'URL qui lui est demandée qui le fera selon sa configuration. S'il est en mesure de traiter **et s'il l'utilisateur a le droit d'y accéder**, il envoie les données au fur et à mesure qu'il les produit si possible et ferme la connexion au navigateur avant d'enregistrer la nouvelle ressource pour une réponse plus rapide. Un fichier temporaire devrait être utilisé pour éviter de générer une ressource pourrie si le traitement était interrompu.
+
+
 @question @précaution
 Il y a quelques questions qui restent en suspend et quelques précautions à prendre :
 * comment éviter un DOS ? Une telle architecture serait particulièrement sensible à une succession de demandes de traitement de ressources coûteuses avec de faibles variations de paramètres.
@@ -55,3 +57,6 @@ A partir de là, il est possible de passer à l'industrialisation : une seule se
 La configuration devrait permettre de choisir //par table// (ou par groupe de tables) le lieu de stockage des données, soit sur un serveur (MySQL, PostgreSQL) soit dans des fichiers (SQLite). De cette façon, le contenu de certaines tables (SQLite) pourrait être versionné et suivre le même flux de déploiement que le code source. Un emplacement par défaut serait proposé pour chaque table, emplacement qui pourrait être écrasé par configuration.
 Naturellement, la question des relations et des jointures entre tables pose question, mais il y a tout lieu de penser que des tables ayant des relations devraient être stockées au même emplacement. Quand aux jointures, il faudrait les gérer de manière algorithmique.
 En tout les cas, cela ne pourrait être intéressant que pour des tables faiblement liées.
+
+===== Log par objet =====
+Le framework devrait permettre de créer un fichier de log sur chaque objet indépendemment du log général et de la fonction de l'objet.

@@ -14,7 +14,14 @@ UPDATE mysql.user SET plugin = 'mysql_native_password',Password = PASSWORD('new_
 FLUSH PRIVILEGES; // Rafraîchir les privilèges
 
 
+===== Enreabwgistrer toutes les requêtes =====
+
+'''
+mysql> SET GLOBAL general_log = 'ON';
+mysql> SET GLOBAL general_log_file = '/tmp/mysql.log';
+'''
 
 
+===== Désactiver temporairement le contrôle des clés étrangères =====
 
-
+mysql> SET FOREIGN_KEY_CHECKS=0;
