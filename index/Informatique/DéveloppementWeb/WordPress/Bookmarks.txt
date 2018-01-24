@@ -28,3 +28,4 @@ Il faut alors lancer l'extensions [[https://fr.wordpress.org/plugins/velvet-blue
 Il ne s'agit pas d'une instance multi-site, mais bien de gérer plusieurs instances depuis une interface unique.
 * Extension [[https://mainwp.com/|MainWP]]
 * [[https://wpmarmite.com/maintenance-wordpress-mainwp/%C2%B2|Article sur l'extension MainWP]]
+
